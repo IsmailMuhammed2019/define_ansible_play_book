@@ -1,0 +1,5 @@
+---
+- name: define_ansible_play_book
+  hosts: localhost
+
+  roles:
